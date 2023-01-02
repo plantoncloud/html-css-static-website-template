@@ -1,0 +1,38 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 720px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 709px;
+  height: 709px;
+  margin: 11px 199px 0 auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 11px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 551px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 540px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 351px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+}
