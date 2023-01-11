@@ -1,2 +1,4 @@
-# template-basic-website
-A Code Project Template to quickly launch a basic html+css website on Planton Cloud
+# {{cookiecutter.project_slug}}
+
+A Static Website created using HTML & CSS.
+
